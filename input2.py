@@ -1,8 +1,6 @@
 name = input("Siapa namamu? ")
 hobby = input("Apa hobi kamu? ")
-hobi = "Wahh hobi kamu keren!"
-result = (name)+" hobi kamu adalah "+(hobby)
+result = (name)+", hobi kamu adalah "+(hobby)+ ", itu kerenn!!"
 
 print("Hello",name)
-print(hobi)
 print(result)
