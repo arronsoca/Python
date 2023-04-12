@@ -1,5 +1,5 @@
 # Belajar-Python
 
-Jadi ini merupakan kumpulan materi python yang sejauh ini saya pelajari
+Jadi ini merupakan kumpulan materi-materi dasar python yang sejauh ini saya pelajari
 
-semoga membantu kalian yang ingin atau sedang belajar pemrograman khususnya python
+semoga membantu kalian yang ingin atau sedang belajar bahasa pemrograman khususnya python
